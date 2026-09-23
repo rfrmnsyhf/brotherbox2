@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <rect width="800" height="1000" fill="#151514"/>
+  <g fill="#77736C" font-family="Arial Narrow, Arial, sans-serif" font-weight="600" text-anchor="middle">
+    <text x="400" y="490" font-size="46" letter-spacing="8">BROTHERBOX</text>
+    <text x="400" y="545" font-size="24" letter-spacing="6" fill="#C62D2D">IMAGE PENDING</text>
+  </g>
+  <rect x="1" y="1" width="798" height="998" fill="none" stroke="#77736C" stroke-opacity="0.4"/>
+</svg>
